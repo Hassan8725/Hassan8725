@@ -1,5 +1,3 @@
-# Hassan Ahmed
-
 ## About Me
 - 👋 Hi, I'm Hassan Ahmed, a passionate Machine Learning Engineer and Data Scientist from Germany.
 - 🏢 I've worked with companies like Aimino Tech and Afiniti Software Solutions, driving forward cutting-edge solutions in AI and data analytics.
