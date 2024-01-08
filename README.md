@@ -9,7 +9,9 @@
 - 📫 How to reach me: hassanahmed8725@gmail.com | [LinkedIn](https://www.linkedin.com/in/hassan-ahmed-554819148/) | [GitHub](https://github.com/Hassan8725)
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,c,matlab,c++" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,flask,django,mongodb,powerbi,tableau" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,jenkins,git,gitlab,anaconda," /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,c,matlab,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,django,mongodb,tensorflow,pytorch,sklearn" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,git,gitlab,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=powerbi,tableau" /><br>
+
 </div>
