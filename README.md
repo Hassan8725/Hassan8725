@@ -12,6 +12,6 @@
     <img src="https://skillicons.dev/icons?i=python,r,c,matlab,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=flask,django,mongodb,tensorflow,pytorch,sklearn" /><br>
     <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,git,gitlab,anaconda" /><br>
-    <img src="https://skillicons.dev/icons?i=powerbi,tableau" /><br>
+    <img src="https://skillicons.dev/icons?i=plotly" />
 
 </div>
