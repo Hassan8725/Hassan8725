@@ -10,6 +10,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,c,matlab,c++" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,flask,django,express,mongodb,powerbi,tableau" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,docker,jenkins,git," /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,flask,django,mongodb,powerbi,tableau" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,jenkins,git,gitlab,anaconda," /><br>
 </div>
