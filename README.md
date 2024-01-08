@@ -11,7 +11,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,c,matlab,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=flask,django,mongodb,tensorflow,pytorch,sklearn" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,git,gitlab,anaconda" /><br>
-    <img src="https://skillicons.dev/icons?i=plotly" />
-
+    <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,github,gitlab,anaconda" /><br>
 </div>
