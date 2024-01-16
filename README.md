@@ -6,7 +6,7 @@
 - 🏢 I've worked with companies like Aimino Tech and Afiniti Software Solutions, driving forward cutting-edge solutions in AI and data analytics.
 - 🎓 Currently pursuing my MSc in Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg.
 - 💼 I specialize in Deep Learning, Machine Learning, Data Analysis, and deploying Large Language Models.
-- 📫 How to reach me: hassanahmed8725@gmail.com | [LinkedIn](https://www.linkedin.com/in/hassan-ahmed-554819148/) | [GitHub](https://github.com/Hassan8725)
+- 📫 How to reach me: hassanahmed8725@gmail.com | [LinkedIn](https://www.linkedin.com/in/hassan-ahmed-554819148/)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,c,matlab,mysql,postgresql" /><br>
