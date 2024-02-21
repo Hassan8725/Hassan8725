@@ -15,9 +15,9 @@
 </div>
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariffazeel99&show_icons=true&locale=en" alt="ariffazeel99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan8725&show_icons=true&locale=en" alt="Hassan8725" /></p>
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariffazeel99&" alt="ariffazeel99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan8725&" alt="Hassan8725" /></p>
 </div>
