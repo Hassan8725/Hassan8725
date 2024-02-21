@@ -13,3 +13,11 @@
     <img src="https://skillicons.dev/icons?i=flask,django,mongodb,tensorflow,pytorch,sklearn" /><br>
     <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,github,gitlab,anaconda" /><br>
 </div>
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariffazeel99&show_icons=true&locale=en" alt="ariffazeel99" /></p>
+</div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariffazeel99&" alt="ariffazeel99" /></p>
+</div>
