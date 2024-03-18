@@ -17,5 +17,3 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan8725&" alt="Hassan8725" /></p>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan8725&show_icons=true&locale=en" alt="Hassan8725" /></p>
